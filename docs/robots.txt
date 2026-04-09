@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bitlocker48digitrecoverypassword.readthedocs.io/en/latest/
