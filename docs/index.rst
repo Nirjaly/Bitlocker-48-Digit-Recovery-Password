@@ -73,4 +73,4 @@ Regularly check that your stored recovery password is accessible and accurate. K
 Final Thought
 -------------
 
-Finding your BitLocker 48-digit recovery password may seem difficult at first, but it becomes much easier when you know where to look. By checking your Microsoft account, saved files, USB drives, or contacting your organization, you can quickly retrieve the required password. Keeping your recovery password सुरक्षित and well-organized ensures that your data remains protected while still being accessible whenever you need it.
+Finding your `BitLocker 48 Digit Recovery Password <https://bitlocker-48-digit-recovery-password.readthedocs.io/en/latest/>`_ may seem difficult at first, but it becomes much easier when you know where to look. By checking your Microsoft account, saved files, USB drives, or contacting your organization, you can quickly retrieve the required password. Keeping your recovery password and well-organized ensures that your data remains protected while still being accessible whenever you need it.
