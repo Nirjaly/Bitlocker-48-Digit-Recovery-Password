@@ -1,0 +1,1 @@
+# Bitlocker-48-Digit-Recovery-Password
